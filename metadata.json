@@ -1,0 +1,6 @@
+{
+  "name": "Journalist Voting Platform",
+  "description": "A web application for voting on journalists. Features a user voting interface and an admin panel to manage the poll and credentials.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
